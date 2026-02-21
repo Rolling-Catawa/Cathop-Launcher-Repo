@@ -1,0 +1,1497 @@
+{
+    "launcher_version": "1.0.0",
+    "launcher_download_url": "",
+    "modpack": {
+        "version": "1.0.1",
+        "changelog": "第一次",
+        "base_url": "https://gh-proxy.com/https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/tag",
+        "install_dir": ".",
+        "files": [
+            {
+                "path": "config/ClickSigns/config.jsonc",
+                "hash": "sha256:03947d7af0a9cc13558983b1be66928b01fc9372e4166f6f44aaff08a39b00a0",
+                "size": 345
+            },
+            {
+                "path": "config/DistantHorizons.toml",
+                "hash": "sha256:79ebdc5aad195ff7d44738dc73ef729e1c656160e44f376f877e9cd7d739c808",
+                "size": 31280
+            },
+            {
+                "path": "config/ModernUI/bootstrap.properties",
+                "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "size": 0
+            },
+            {
+                "path": "config/ModernUI/client.toml",
+                "hash": "sha256:60048a2fe91b7dae4f7bab19693d93809c7d94a93449e4bc4290cdc10e6b1887",
+                "size": 8760
+            },
+            {
+                "path": "config/ModernUI/common.toml",
+                "hash": "sha256:4373c5846966cfd0927ad2b06f08d70b1a590ef21d6854d4f1c4fb0106ada5c4",
+                "size": 147
+            },
+            {
+                "path": "config/ModernUI/text.toml",
+                "hash": "sha256:50f038ad96446f91a2f6c7b1d285861572060ece3c379d94eabe8e3eb84b6b69",
+                "size": 6053
+            },
+            {
+                "path": "config/NoChatReports/NCR-Client.json",
+                "hash": "sha256:edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480",
+                "size": 565
+            },
+            {
+                "path": "config/NoChatReports/NCR-Common.json",
+                "hash": "sha256:0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0",
+                "size": 230
+            },
+            {
+                "path": "config/NoChatReports/NCR-Encryption.json",
+                "hash": "sha256:0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c",
+                "size": 520
+            },
+            {
+                "path": "config/NoChatReports/NCR-ServerPreferences.json",
+                "hash": "sha256:df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1",
+                "size": 24
+            },
+            {
+                "path": "config/NoChatReports/README.md",
+                "hash": "sha256:c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f",
+                "size": 167
+            },
+            {
+                "path": "config/RuOK.toml",
+                "hash": "sha256:758a5c50bb165bff220484721f0e80afc7283950b1fff51d2a6feb2f004717eb",
+                "size": 924
+            },
+            {
+                "path": "config/anyfps.json",
+                "hash": "sha256:92694c7a3840dd75cb7eff9e9944f9f8de95862fc4d279b5a636fbea88641ed6",
+                "size": 70
+            },
+            {
+                "path": "config/archaeology_config.json",
+                "hash": "sha256:fe0ff029981b7dc8e4d777aa2541d2b8631d84d7eab0ea26703534fb24d26e04",
+                "size": 422
+            },
+            {
+                "path": "config/axiom/.axiom.json.backup",
+                "hash": "sha256:29d4a93beccd0db06cf520de848b72ecd03bf5b839d59beea46e7180623280a4",
+                "size": 9173
+            },
+            {
+                "path": "config/axiom/axiom.json",
+                "hash": "sha256:29d4a93beccd0db06cf520de848b72ecd03bf5b839d59beea46e7180623280a4",
+                "size": 9173
+            },
+            {
+                "path": "config/axiom/hotbars/110.42.68.29",
+                "hash": "sha256:f4fc7ade2bde35f7e9e9845090dd1866bfea87ac33cab4bf1b46c0153381cdfe",
+                "size": 1043
+            },
+            {
+                "path": "config/axiom/hotbars/31870fd3df78.ofalias.com",
+                "hash": "sha256:f4fc7ade2bde35f7e9e9845090dd1866bfea87ac33cab4bf1b46c0153381cdfe",
+                "size": 1043
+            },
+            {
+                "path": "config/axiom/imgui.ini",
+                "hash": "sha256:8b00779f9a295c6e5f6f09bfd2b4fcf0e109f519efba9f61cd7c1e5b4e4c27be",
+                "size": 2595
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/.defaults",
+                "hash": "sha256:e187aad173e17f0209c849856a25b75f4130c9f771889b80fea65be4aab617e3",
+                "size": 90
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/clear_foliage.nbt",
+                "hash": "sha256:6bc33c70f57dffcd6f484532924b525b38ddb8e57608f91249eec08e35c0eafc",
+                "size": 293
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/flowers.nbt",
+                "hash": "sha256:726a7e5ca75ec999a245502edfc9bdd173f9e86bb03a6848aaef62dfc71b42fc",
+                "size": 469
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/grass.nbt",
+                "hash": "sha256:bb5ff75d914449831f5a903cf47cb8fed7047201b16350d4fc7c04cbf754a5cb",
+                "size": 528
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/heart.nbt",
+                "hash": "sha256:75b77798915a1bdccae453a657708520a20df3387b69295a76a97bb38097787e",
+                "size": 273
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/kelp.nbt",
+                "hash": "sha256:9a4c090cce44a6c67f7363c6dab429fa6889279f51f9d7a4517e215f931bca7b",
+                "size": 419
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/leafy_bushes.nbt",
+                "hash": "sha256:32a227ae1dcde3355cdcddef440eb93dbfaeddac98c30c789049b952841997e4",
+                "size": 603
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/terrain__desert.nbt",
+                "hash": "sha256:2b8478c296f079fd3def86b2adcaffc9b5a6ca40572f73f9d8942c578cb88bc1",
+                "size": 449
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/terrain__plains.nbt",
+                "hash": "sha256:590870e3554830b2a5cd070ea46229018775299330a76c9db65bd6f29c163f25",
+                "size": 438
+            },
+            {
+                "path": "config/axiom/tool_presets/script_brush/vines.nbt",
+                "hash": "sha256:c5d13c42d6fb3aecb6e051ecb0b8b34826d781e5458b1779c1ac1a67300d672c",
+                "size": 248
+            },
+            {
+                "path": "config/axiom/translations.zip",
+                "hash": "sha256:9cf3f2a9488219a9fabc03ea7ebf7c8c67fb04df34774b9b2d50193307bf3afa",
+                "size": 1166224
+            },
+            {
+                "path": "config/betterfpsdist.json",
+                "hash": "sha256:7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017",
+                "size": 697
+            },
+            {
+                "path": "config/bettergrass.json5",
+                "hash": "sha256:7f2edb6c63c513d0ff5f6b216da7cc1394da4f07c192ceab805bc3ead56cc798",
+                "size": 962
+            },
+            {
+                "path": "config/betterpingdisplay.json",
+                "hash": "sha256:d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0",
+                "size": 122
+            },
+            {
+                "path": "config/bobby.conf",
+                "hash": "sha256:b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53",
+                "size": 1356
+            },
+            {
+                "path": "config/brute_force_rendering_culling.json",
+                "hash": "sha256:de4fdbe9fb53e71d9f7f2d347c8430db39f01f67940f61a4b9abe64b4e98031c",
+                "size": 283
+            },
+            {
+                "path": "config/c2me.toml",
+                "hash": "sha256:f6866b31043edf0ff21a2d0247a81ad32c44d19292a0180730800668b8405870",
+                "size": 6582
+            },
+            {
+                "path": "config/cardinal-components-api.properties",
+                "hash": "sha256:f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982",
+                "size": 273
+            },
+            {
+                "path": "config/cathop_rebirth/announcements.json",
+                "hash": "sha256:d466b65c12472baa97edc91d6dccc6739dbc76acec8a913058fe1b4710eeb6bd",
+                "size": 505
+            },
+            {
+                "path": "config/cathop_rebirth/initialized_players.dat",
+                "hash": "sha256:bcc6cb81d5a16c437c43f65e3501a64ecedcacbc6f0d0512d74a3cc4929fa2a0",
+                "size": 129
+            },
+            {
+                "path": "config/cathop_rebirth/tempbans.json",
+                "hash": "sha256:44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+                "size": 2
+            },
+            {
+                "path": "config/chat_heads.json5",
+                "hash": "sha256:744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2",
+                "size": 186
+            },
+            {
+                "path": "config/chatpatches.json",
+                "hash": "sha256:fbc164280a86b1bbb026730c32a28161a0b3a37dcff0c9aa449f50a68a84071b",
+                "size": 756
+            },
+            {
+                "path": "config/chunky/config.json",
+                "hash": "sha256:c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8",
+                "size": 146
+            },
+            {
+                "path": "config/colors.toml",
+                "hash": "sha256:cd82566e4d0f5d769f8d19c2e09a1c24655507a888fe6de6ad05adfbe2d9a38e",
+                "size": 2129
+            },
+            {
+                "path": "config/com.yuushya/client_config.json",
+                "hash": "sha256:a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65",
+                "size": 20
+            },
+            {
+                "path": "config/continuity.json",
+                "hash": "sha256:00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4",
+                "size": 122
+            },
+            {
+                "path": "config/cullleaves.json",
+                "hash": "sha256:6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc",
+                "size": 42
+            },
+            {
+                "path": "config/cupboard.json",
+                "hash": "sha256:08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028",
+                "size": 1090
+            },
+            {
+                "path": "config/darkkore.toml",
+                "hash": "sha256:3e91c7f1fca805e82fd86836cb09234c5983e3101e24b4491f02e8b212894350",
+                "size": 606
+            },
+            {
+                "path": "config/dashloader.json",
+                "hash": "sha256:1ec32bbcb7519614152292bbcb282c4a5c75bca3f98aca282d872a7fde95d9ae",
+                "size": 179
+            },
+            {
+                "path": "config/delivery_system.json",
+                "hash": "sha256:ca4fc50e17a70f01a3628ac9fa9b9237165c2ed8223d24c024c24add5a433ff3",
+                "size": 830
+            },
+            {
+                "path": "config/effective.json",
+                "hash": "sha256:a8930d61ac66f10f576d6fa62bfa334104d1df773b1769e00c4d732d292b3820",
+                "size": 1158
+            },
+            {
+                "path": "config/emi.css",
+                "hash": "sha256:6a7cae69cc98717d699fcca45a62a9a6d327b922cf51f2ce44da2025076362eb",
+                "size": 10180
+            },
+            {
+                "path": "config/enhanced_bes.properties",
+                "hash": "sha256:dce8750c6cab9ee8c0e55fca8b91b67a409cdbb2802d4d91926e6bcb64a9f678",
+                "size": 532
+            },
+            {
+                "path": "config/entity_texture_features.json",
+                "hash": "sha256:0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2",
+                "size": 1420
+            },
+            {
+                "path": "config/entityculling.json",
+                "hash": "sha256:dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc",
+                "size": 1695
+            },
+            {
+                "path": "config/etf_warnings.json",
+                "hash": "sha256:a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+                "size": 28
+            },
+            {
+                "path": "config/fabric/indigo-renderer.properties",
+                "hash": "sha256:1a58199d6aed1b2ab06bbc21f6bc37a852c0bf38c2416d254b77a5a31e64b860",
+                "size": 290
+            },
+            {
+                "path": "config/fabrishot.properties",
+                "hash": "sha256:278fc115f4628d2eb9449e781f269cd5bb43736baedb1c0f33cb32514a3bd02d",
+                "size": 232
+            },
+            {
+                "path": "config/fancymenu/assets/cathop.png",
+                "hash": "sha256:496cdb75c366927c260bbc618ca8451b337ee92dc1f661f345a0d80795c051cd",
+                "size": 18695
+            },
+            {
+                "path": "config/fancymenu/assets/grass_block_side.png",
+                "hash": "sha256:dedaa0171af63df63a6cf7e3e6c7078d4d5830fd93923f3005302ed0f02104c5",
+                "size": 408
+            },
+            {
+                "path": "config/fancymenu/assets/pack.png",
+                "hash": "sha256:6eeb8d9fc76c24432dde095c49ff7f35a2687be771f006e3c37f7b83bb251759",
+                "size": 401377
+            },
+            {
+                "path": "config/fancymenu/custom_gui_screens.txt",
+                "hash": "sha256:ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+                "size": 51
+            },
+            {
+                "path": "config/fancymenu/customizablemenus.txt",
+                "hash": "sha256:6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327",
+                "size": 55
+            },
+            {
+                "path": "config/fancymenu/customization/title_screen_layout.txt",
+                "hash": "sha256:d364c2d7e216986a62ad985cd71d5c86757162ff4c76604cb4eb5bfb5f3d926b",
+                "size": 32520
+            },
+            {
+                "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+                "hash": "sha256:d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de",
+                "size": 198
+            },
+            {
+                "path": "config/fancymenu/legacy_checklist.txt",
+                "hash": "sha256:9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+                "size": 42
+            },
+            {
+                "path": "config/fancymenu/options.txt",
+                "hash": "sha256:410c4a2de72bd96cb1ac94b177dcddd07b2900636f06f5af2caf23f3af771beb",
+                "size": 1947
+            },
+            {
+                "path": "config/fancymenu/ui_themes/dark.json",
+                "hash": "sha256:45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+                "size": 4133
+            },
+            {
+                "path": "config/fancymenu/ui_themes/light.json",
+                "hash": "sha256:6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+                "size": 4135
+            },
+            {
+                "path": "config/fancymenu/user_variables.db",
+                "hash": "sha256:3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+                "size": 23
+            },
+            {
+                "path": "config/farmersdelight-client.toml",
+                "hash": "sha256:e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
+                "size": 369
+            },
+            {
+                "path": "config/farmersdelight-common.toml",
+                "hash": "sha256:13e5878be2b5e90140b138af5c851501e6e692427a56cef13cdaff4a1c8230cc",
+                "size": 4540
+            },
+            {
+                "path": "config/fast-chest.properties",
+                "hash": "sha256:994f02d966efaa0c092bc178e77311dd66e45c617ffc04821d5cd42f816c43f0",
+                "size": 77
+            },
+            {
+                "path": "config/fastload.properties",
+                "hash": "sha256:7431d6949ae5b355b725fecf34f8c350c05c84301c0fcb5f3e8857a145de1174",
+                "size": 1102
+            },
+            {
+                "path": "config/ferritecore.mixin.properties",
+                "hash": "sha256:a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8",
+                "size": 1525
+            },
+            {
+                "path": "config/fmsia/users.json",
+                "hash": "sha256:9114993b39cafbca8cf8a26282cb5782fe53fe0b0cd93b1b522916c58b9f02a6",
+                "size": 88
+            },
+            {
+                "path": "config/forgeconfigapiport.toml",
+                "hash": "sha256:ac070ed460bf105be08b98392544e52093232aaf2cee8e3db826bb709ed535cd",
+                "size": 1582
+            },
+            {
+                "path": "config/fpsdisplay.json",
+                "hash": "sha256:093d8d0c6a8ac5e110032d325b543e7d8a955b61754b292af6a24977aef045c1",
+                "size": 199
+            },
+            {
+                "path": "config/fpsreducer.json",
+                "hash": "sha256:b5ec902f480d0237607e75a469fa700594296045d89f9ddef790c54783b070e7",
+                "size": 1517
+            },
+            {
+                "path": "config/ibeeditor-client.json",
+                "hash": "sha256:50fe7fd0f874b58bb22f452780d7ae48d6ae1e06759eeeed7e6e14630493d6ed",
+                "size": 127
+            },
+            {
+                "path": "config/ibeeditor-common.json",
+                "hash": "sha256:9bc8aa58de86e9dec0b9bb62f8f0c0db1077c95ad4f35bef6a6b99550f2f8aac",
+                "size": 67
+            },
+            {
+                "path": "config/ibeeditor-vault.dat",
+                "hash": "sha256:15ec7bf0b50732b49f8228e07d24365338f9e3ab994b00af08e5a3bffe55fd8b",
+                "size": 12
+            },
+            {
+                "path": "config/idle_boost.json",
+                "hash": "sha256:cedfa986e776c9912a3606d1b4c89a66e94b8c3b8213e4463ff3438bf82393f2",
+                "size": 162
+            },
+            {
+                "path": "config/immediatelyfast.json",
+                "hash": "sha256:f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+                "size": 1060
+            },
+            {
+                "path": "config/indium-renderer.properties",
+                "hash": "sha256:564229576c05d3bbdf820a075eb7398d53a51e237de175373bc07bc59d199522",
+                "size": 115
+            },
+            {
+                "path": "config/ingameime.json",
+                "hash": "sha256:a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece",
+                "size": 102
+            },
+            {
+                "path": "config/iris.properties",
+                "hash": "sha256:ce242b0c2f6c732dcb8053ccb2c2b0b4fe165dfa991c5ce949903d1132d53e42",
+                "size": 272
+            },
+            {
+                "path": "config/jade/hide-blocks.json",
+                "hash": "sha256:247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b",
+                "size": 191
+            },
+            {
+                "path": "config/jade/hide-entities.json",
+                "hash": "sha256:22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3",
+                "size": 325
+            },
+            {
+                "path": "config/jade/jade.json",
+                "hash": "sha256:4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2",
+                "size": 975
+            },
+            {
+                "path": "config/jade/plugins.json",
+                "hash": "sha256:d570398d0b7d4c9b348fdcfb235e2481c72b951685ea5b293b257670d4fcc825",
+                "size": 1680
+            },
+            {
+                "path": "config/jade/sort-order.json",
+                "hash": "sha256:65471cbdd0592bfe0caea3682324bb0785dc3f3765b73391f880921f8ba61366",
+                "size": 1517
+            },
+            {
+                "path": "config/jade/usernamecache.json",
+                "hash": "sha256:dd22d1b206e5ee6efb8cfb4c8650172d246e292dc7d718edce60a1300f463dbd",
+                "size": 1815
+            },
+            {
+                "path": "config/journeymap-server.json",
+                "hash": "sha256:2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca",
+                "size": 67
+            },
+            {
+                "path": "config/jsblock_client.json",
+                "hash": "sha256:2187c6e7a17faea7e760e86f74eebc3ef921514acfbbd5844d70e196917422ee",
+                "size": 87
+            },
+            {
+                "path": "config/jsclient.json",
+                "hash": "sha256:abf962c838dc8dd34ad9a710bb2aff1fe2b949a75ed35d2bfe30fc0e77a3ad57",
+                "size": 84
+            },
+            {
+                "path": "config/jsonem.properties",
+                "hash": "sha256:7afa5054e04cb6f7bb0abb26837d9643bb971e643f2fa2b9689a01ef3398b22e",
+                "size": 50
+            },
+            {
+                "path": "config/konkrete/locals/de_de.local",
+                "hash": "sha256:79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+                "size": 369
+            },
+            {
+                "path": "config/konkrete/locals/en_us.local",
+                "hash": "sha256:fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+                "size": 426
+            },
+            {
+                "path": "config/konkrete/locals/pl_pl.local",
+                "hash": "sha256:d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+                "size": 313
+            },
+            {
+                "path": "config/konkrete/locals/pt_br.local",
+                "hash": "sha256:dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+                "size": 322
+            },
+            {
+                "path": "config/kronhud.json",
+                "hash": "sha256:7992a9a4affedbf57923b1a9b65dda76398a791de1ed0136db22f793b581adb4",
+                "size": 14870
+            },
+            {
+                "path": "config/libgui.json5",
+                "hash": "sha256:6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d",
+                "size": 101
+            },
+            {
+                "path": "config/litematica.json",
+                "hash": "sha256:ce2fbda2463cf2118b3628e45555566011b77868a520cbbbd668b252c76da459",
+                "size": 9170
+            },
+            {
+                "path": "config/litematica/litematica_31870fd3df78.ofalias.com_38780.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_31870fd3df78.ofalias.com_38780_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_31870fd3df78.ofalias.com_38780_dim_minecraft_the_end.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_____.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica__________2_0.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica__________2_0_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica______dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_bbca3fb2179c.ofalias.com_24476.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_bbca3fb2179c.ofalias.com_24476_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld2.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld2_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld3.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld3_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld5.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld5_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_cathopnewworld_dim_minecraft_overworld.json.tmp",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/litematica/litematica_greenfield_v0_5_4.json",
+                "hash": "sha256:533f9a9dbcb786b4da61bf582d6f58addd238a2cd305cbe686a8f9ec746d7309",
+                "size": 173
+            },
+            {
+                "path": "config/litematica/litematica_greenfield_v0_5_4_dim_minecraft_overworld.json",
+                "hash": "sha256:3d9e037697d04359b625eee2a2347d3f98b6ac33b696a7ecd15f9169e096de2b",
+                "size": 739
+            },
+            {
+                "path": "config/litematica/litematica_play.simpfun.cn_27440.json",
+                "hash": "sha256:97feaaf82f2202f9b84bcc4a326898d993b57bc88dc4b60bbbc3f5af2e1afffa",
+                "size": 173
+            },
+            {
+                "path": "config/litematica/litematica_play.simpfun.cn_27440_dim_minecraft_overworld.json",
+                "hash": "sha256:5ba11583e730b538269d10000c36fc66f8d4c9f6bb05e178f28a5ee990f91bd7",
+                "size": 741
+            },
+            {
+                "path": "config/litematica/litematica_test.json",
+                "hash": "sha256:12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+                "size": 95
+            },
+            {
+                "path": "config/litematica/litematica_test_dim_minecraft_overworld.json",
+                "hash": "sha256:4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf",
+                "size": 734
+            },
+            {
+                "path": "config/lithium.properties",
+                "hash": "sha256:76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e",
+                "size": 430
+            },
+            {
+                "path": "config/lodestone-client.toml",
+                "hash": "sha256:ec7f32a010feab8dafe5e4c5a25e2e58b396c96d863d3655db328ec1e6bbe2ef",
+                "size": 964
+            },
+            {
+                "path": "config/malilib.json",
+                "hash": "sha256:a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64",
+                "size": 149
+            },
+            {
+                "path": "config/memorysweep.json5",
+                "hash": "sha256:7b1d114f2eda58365e26cab1bf535aab3d66ac5ef8553f45028f2613024f7061",
+                "size": 849
+            },
+            {
+                "path": "config/midnightlib.json",
+                "hash": "sha256:b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444",
+                "size": 37
+            },
+            {
+                "path": "config/minecraft-client.toml",
+                "hash": "sha256:407cb0bbf3fcb4c7a8aca2fc72f56b86d49784e0d6cef62ad7c8a1c29eeadb01",
+                "size": 1628
+            },
+            {
+                "path": "config/minecraft-common.toml",
+                "hash": "sha256:7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+                "size": 2
+            },
+            {
+                "path": "config/minecraft-server.toml",
+                "hash": "sha256:e2c32c27453033ef3910d5b6a24ae1a8c1fd224c2ac0a97388d5aa27a6a00ad1",
+                "size": 1787
+            },
+            {
+                "path": "config/minihud.json",
+                "hash": "sha256:4ca5cbc1556fc57f4674f46b93b234075413ecab523754b31ff4de9e38ebe237",
+                "size": 14371
+            },
+            {
+                "path": "config/minihud/play.simpfun.cn_27440.json",
+                "hash": "sha256:7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464",
+                "size": 171
+            },
+            {
+                "path": "config/minihud/play.simpfun.cn_27440_dim_minecraft_overworld.json",
+                "hash": "sha256:dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c",
+                "size": 103
+            },
+            {
+                "path": "config/minihud/test.json",
+                "hash": "sha256:7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464",
+                "size": 171
+            },
+            {
+                "path": "config/minihud/test_dim_minecraft_overworld.json",
+                "hash": "sha256:dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c",
+                "size": 103
+            },
+            {
+                "path": "config/modernfix-mixins.properties",
+                "hash": "sha256:5f0fb373f4534d632b348ef31320b56a50d49819153c48c9f6ba1062575b8051",
+                "size": 4359
+            },
+            {
+                "path": "config/modmenu.json",
+                "hash": "sha256:748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157",
+                "size": 814
+            },
+            {
+                "path": "config/mpem-common.toml",
+                "hash": "sha256:9481d77f287b8ad97cb5544a0f9f4ae7e045c12d4b253048492b3d6fcc5f3de1",
+                "size": 8268
+            },
+            {
+                "path": "config/msd.json",
+                "hash": "sha256:14c55d708498167c64ef9a5dd6cf5169752e21d9625a8b6f7d3a7cc26734e488",
+                "size": 202
+            },
+            {
+                "path": "config/mtr.json",
+                "hash": "sha256:ab0716a374816d1f9eb44f10806bada1e528de2695470ff5c963c747dbda4735",
+                "size": 571
+            },
+            {
+                "path": "config/mtr_webserver_port.txt",
+                "hash": "sha256:5710231acd69d2da010d49d52017b59f6bbf2d322565b0708a07c5fda401e836",
+                "size": 6
+            },
+            {
+                "path": "config/noindium.json",
+                "hash": "sha256:919b1f9bf2843d208e6289bc0dd8f56933da7a1219209c788b62fb9e3a4c7a10",
+                "size": 89
+            },
+            {
+                "path": "config/replaymod.json",
+                "hash": "sha256:61c3ad5052b81072e004150c08ceb7de10f7aede31bb7c6a721a6239b94977c7",
+                "size": 1738
+            },
+            {
+                "path": "config/rrls.toml",
+                "hash": "sha256:9b0a7f60429c0026ea544b18201e6953338a95013aa3dd3bdcbda339f6b42cf6",
+                "size": 297
+            },
+            {
+                "path": "config/rrp.properties",
+                "hash": "sha256:9c5079ba2796541accb871e5a2037e79c5364302dc70aa5ab3bf65948950ee51",
+                "size": 148
+            },
+            {
+                "path": "config/seamless_loading_screen.json",
+                "hash": "sha256:11709f830f3d33ed6407a05fbffc3161713b194005e1c97b2cddab457689aac8",
+                "size": 459
+            },
+            {
+                "path": "config/slideshow.json",
+                "hash": "sha256:000355e7732211453efc3adf06580ddccc5d38139f600c712e3715b036bfca03",
+                "size": 99
+            },
+            {
+                "path": "config/sodium-extra-options.json",
+                "hash": "sha256:397c8144c4440ecde7899c8d0bda480354bee15bd8f4b1d238a673fab9a7b034",
+                "size": 1473
+            },
+            {
+                "path": "config/sodium-extra.properties",
+                "hash": "sha256:a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+                "size": 360
+            },
+            {
+                "path": "config/sodium-fingerprint.json",
+                "hash": "sha256:5dc9b92885c5428bcaf7db5b0a9d82495b33b699b83f433ae9825518f1c2a446",
+                "size": 427
+            },
+            {
+                "path": "config/sodium-mixins.properties",
+                "hash": "sha256:8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574",
+                "size": 265
+            },
+            {
+                "path": "config/sodium-options.json",
+                "hash": "sha256:73ca5357662568d8a2ec4385268b677f0d4490f188b4bcb250ef17b66bd467fe",
+                "size": 633
+            },
+            {
+                "path": "config/stutterfix-config.json",
+                "hash": "sha256:4be4b777e4ea52a9b057d20ba2f21a4363d2e4cc587f64d02144d89413deb0a9",
+                "size": 174
+            },
+            {
+                "path": "config/tjmetro.json",
+                "hash": "sha256:d504912234be56c820913e2b16e986530c724700052ff3e0ffdedf66da25ee31",
+                "size": 143
+            },
+            {
+                "path": "config/toadlib_config.txt",
+                "hash": "sha256:50d990c76eb897cf8ccf00cc1e7aab609ace8a4b1843739689f353e99d404cdf",
+                "size": 66
+            },
+            {
+                "path": "config/toomanyplayers.json",
+                "hash": "sha256:f90def1e0d976050b27f5ae81690a6eb7f42641738c522ff975ecbe3952f7669",
+                "size": 639
+            },
+            {
+                "path": "config/tweakeroo.json",
+                "hash": "sha256:1895482e013d5a343e360eb8da08c312b7d59a77bfe92995551f385f1dca8771",
+                "size": 22961
+            },
+            {
+                "path": "config/worldedit/worldedit.properties",
+                "hash": "sha256:bcb43affb2adab9b266968c55f272e311f3ca39440325e1e3d0e3fdd7e66d54b",
+                "size": 2541
+            },
+            {
+                "path": "config/xaerominimap-common.txt",
+                "hash": "sha256:771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f",
+                "size": 145
+            },
+            {
+                "path": "config/xaerominimap.txt",
+                "hash": "sha256:b373a866f869ede29381023d00238886976ec94c245f3cb3244e88a00533fd5e",
+                "size": 3640
+            },
+            {
+                "path": "config/xaerominimap_entities.json",
+                "hash": "sha256:b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13",
+                "size": 5531
+            },
+            {
+                "path": "config/xaeropatreon.txt",
+                "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "size": 0
+            },
+            {
+                "path": "config/xaeroplus.txt",
+                "hash": "sha256:3e0c8255bfafcb46878a99124405e0c021822a9a8167f8884149790af3dbef13",
+                "size": 3435
+            },
+            {
+                "path": "config/xaeroworldmap-common.txt",
+                "hash": "sha256:f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f",
+                "size": 120
+            },
+            {
+                "path": "config/xaeroworldmap.txt",
+                "hash": "sha256:b88876c4630c405c9a23e1b743af7a2e5a86dc124f541559e9adbf3b3dbf3443",
+                "size": 1218
+            },
+            {
+                "path": "config/yacl.json5",
+                "hash": "sha256:d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+                "size": 35
+            },
+            {
+                "path": "config/yunzhu_transit_extension.json",
+                "hash": "sha256:7c7503cf7e11fa33f2a9ebb1ee7915312bbe42fb0742aa805b6fb53086723052",
+                "size": 34
+            },
+            {
+                "path": "config/zoomify.json",
+                "hash": "sha256:60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4",
+                "size": 713
+            },
+            {
+                "path": "fancymenu_data/last_world.fmdata",
+                "hash": "sha256:954325479988db192860a988ca53f5af5dbf5ec553658d6364039855aa4e876f",
+                "size": 95
+            },
+            {
+                "path": "mods/Axiom-5.0.1-for-MC1.20.1.jar",
+                "hash": "sha256:0c8bd40887668d83150c75e0c885755b2691e0aa9cd811fa173e477d9c7687ba",
+                "size": 42619186
+            },
+            {
+                "path": "mods/Chunky-1.3.146.jar",
+                "hash": "sha256:ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38",
+                "size": 344004
+            },
+            {
+                "path": "mods/ClickSigns-fabric-1.0.6+1.20.1.jar",
+                "hash": "sha256:6acc61ec714886e68f44cb4fd0997a3a4c1246f9d926aba0311b6c95b1b77b10",
+                "size": 173226
+            },
+            {
+                "path": "mods/CustomSkinLoader_Fabric-14.23.jar",
+                "hash": "sha256:36994b9e75b809c29476c271a4ff87ade5df7093a63c0d263f7287fd5be21281",
+                "size": 185052
+            },
+            {
+                "path": "mods/FABRIC-1.0.0+1.20.1.jar",
+                "hash": "sha256:c575b488d749ee9cee3bf88ed45159cf8930518e363607e368b69f86628f58e0",
+                "size": 23683
+            },
+            {
+                "path": "mods/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+                "hash": "sha256:5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56",
+                "size": 397239
+            },
+            {
+                "path": "mods/JCM-fabric-2.1.0-beta.2+1.20.1.jar",
+                "hash": "sha256:908eb1986701133660dec7f75806749ace4011195300842cb5cef4ae9e79b4ab",
+                "size": 24007726
+            },
+            {
+                "path": "mods/MSD-fabric-1.20.1-4.0.2-1.4.2.jar",
+                "hash": "sha256:79131a8147efdfe2d60b528f96a3115c00549cbe65be6854538b5767c7d655a7",
+                "size": 7996892
+            },
+            {
+                "path": "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.1.jar",
+                "hash": "sha256:13e536151f87700241ea82b9462f13b8715ddad590c8d03bb724403fa41e5f74",
+                "size": 63838895
+            },
+            {
+                "path": "mods/MTR-London-Underground-Trains-fabric-1.0.3+1.20.1.jar",
+                "hash": "sha256:89ca0fdc348aa6b50fcd718650756131854ab84a488bd89cf780496a1e2ebff3",
+                "size": 98969406
+            },
+            {
+                "path": "mods/MTR-fabric-4.0.2-hotfix-1+1.20.1.jar",
+                "hash": "sha256:016885aaa798368c2df45d4a7e4f9fe0c6d955f30dd852a0476524a66aa53c3e",
+                "size": 80575369
+            },
+            {
+                "path": "mods/ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
+                "hash": "sha256:6d2979f446388c71d4e4aef986de4cb3fa48888381339c78fd1832a3a6f2430d",
+                "size": 24283474
+            },
+            {
+                "path": "mods/Searchables-fabric-1.20.1-1.0.3.jar",
+                "hash": "sha256:d377ecc4e4217705d162164ea8834f71f8f91881016edb941f6d455f77adde09",
+                "size": 80283
+            },
+            {
+                "path": "mods/Shut Up GL Error-fabric-1.20.1-1.0.0.jar",
+                "hash": "sha256:28da55566ed4f0a6eab954e0cfc71d2a8b7b069e1cb8866c3ee6ffda1031c334",
+                "size": 120000
+            },
+            {
+                "path": "mods/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar",
+                "hash": "sha256:774ecae8c258a86c7dc69b290945a8a01a5d8f3315a1caa7e2d8e4c4e299985c",
+                "size": 2925864
+            },
+            {
+                "path": "mods/Tianjin-Metro-1.0.2+1.20.1.jar",
+                "hash": "sha256:c9d76ff5d55caeff9b287a2f7d888f89caea00f00505e9cd9f2becdd35386abe",
+                "size": 13443979
+            },
+            {
+                "path": "mods/ToadLib-1.20-1.20.1-1.2.4.jar",
+                "hash": "sha256:470596b9057f2656eaac11218d4432c05ac451a7d836eaa6ba2a53dc51dca31d",
+                "size": 444966
+            },
+            {
+                "path": "mods/XaerosWorldMap_1.39.12_Fabric_1.20.jar",
+                "hash": "sha256:be5cdd58d0fb4cc81b128435e050f1c7c290fdc3e4b48199cf2c727946887fd7",
+                "size": 974400
+            },
+            {
+                "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
+                "hash": "sha256:c9997d1efeee193911767eb7f3df355dd50be21d0d77dd1ff611bcbb59b69897",
+                "size": 1740608
+            },
+            {
+                "path": "mods/Yunzhu-Transit-Extension-fabric-1.0.2-beta.4+1.20.1 (2).jar",
+                "hash": "sha256:4fb786b29a50c808576cfb009894af9ba98469aeae9e6adcfce666a27652190f",
+                "size": 23689202
+            },
+            {
+                "path": "mods/[C^2M 引擎] c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+                "hash": "sha256:a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde",
+                "size": 1426500
+            },
+            {
+                "path": "mods/[DFU载入优化] lazydfu-0.1.3.jar",
+                "hash": "sha256:4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8",
+                "size": 14531
+            },
+            {
+                "path": "mods/[内存泄漏修复] memoryleakfix-fabric-1.17+-1.1.5.jar",
+                "hash": "sha256:b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde",
+                "size": 49334
+            },
+            {
+                "path": "mods/[内存清扫] memorysweep-1.20.1-1.1.2-fabric.jar",
+                "hash": "sha256:b7a3e2013d78de810497548864db44ee871bf566134946ce11fb9717525aad62",
+                "size": 14574
+            },
+            {
+                "path": "mods/[农夫乐事：重织] FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+                "hash": "sha256:81d78e10b58e220bffbe4932de5486ac2127efc37908e89161237a34f0828fac",
+                "size": 8056758
+            },
+            {
+                "path": "mods/[实体渲染机制优化] entityculling-fabric-1.7.4-mc1.20.1.jar",
+                "hash": "sha256:ad938f570cf88c9a1a8e954999920cd718eb15f7b1de8b67d33046ef1f9a8507",
+                "size": 70663
+            },
+            {
+                "path": "mods/[我的城市：交通与生活] Citymod-Fabric-0.1.4.4-1.20.1.jar",
+                "hash": "sha256:f07ee161bcc9d2da71812bf08c3d09f1ed793dc4a8dd1776f52333ee03adc9f0",
+                "size": 2098796
+            },
+            {
+                "path": "mods/[星光] starlight-1.1.2+fabric.dbc156f.jar",
+                "hash": "sha256:2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8",
+                "size": 127368
+            },
+            {
+                "path": "mods/[更好的床] betterbeds-1.3.0-1.19.3.jar",
+                "hash": "sha256:ab5712649d9c9f3ada636bbcc52e71099edc5ec674a7d52f27f2b61ffdccf2f4",
+                "size": 50218
+            },
+            {
+                "path": "mods/[更好的延迟显示] BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+                "hash": "sha256:f9f14d7df5c6de56d7c8447b7729d724baa74f0e27b594a201af04381045ece5",
+                "size": 16226
+            },
+            {
+                "path": "mods/[树叶渲染优化] cullleaves-fabric-3.2.0.jar",
+                "hash": "sha256:b85953d3c2de70f0fbd4cddf57f9c0861a9bd409077ce6e01da817f6e7584177",
+                "size": 75072
+            },
+            {
+                "path": "mods/[模组菜单] modmenu-7.2.2.jar",
+                "hash": "sha256:a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+                "size": 721366
+            },
+            {
+                "path": "mods/[游戏内输入法续更版 ／ 游戏内输入法 Forge 重置版] ContingameIME-1.0.7-1.20.1-fabric.jar",
+                "hash": "sha256:c5d5252d6ea35bd24b3ddd7d3ebfefc24e20b7846cd44f045b1414cc419a4602",
+                "size": 194045
+            },
+            {
+                "path": "mods/[玉 🔍] Jade-1.20-Fabric-11.13.1.jar",
+                "hash": "sha256:02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c",
+                "size": 572882
+            },
+            {
+                "path": "mods/[现代化修复] modernfix-fabric-5.23.1+mc1.20.1.jar",
+                "hash": "sha256:4a64856303a5cf96063feb461e2a305bf25a646d181fd6e170c5258961970c6c",
+                "size": 530761
+            },
+            {
+                "path": "mods/[移除重载界面] rrls-4.0.6.1+mc1.20.1-fabric.jar",
+                "hash": "sha256:da477c897a8bc0e080aa1e00b813c1d4bba26af80be2dbda10afd12a0ca40115",
+                "size": 160946
+            },
+            {
+                "path": "mods/[钠] sodium-fabric-0.5.13+mc1.20.1.jar",
+                "hash": "sha256:688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+                "size": 971552
+            },
+            {
+                "path": "mods/[铁氧体磁芯] ferritecore-6.0.1-fabric.jar",
+                "hash": "sha256:c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+                "size": 125197
+            },
+            {
+                "path": "mods/[铟] indium-1.0.36+mc1.20.1.jar",
+                "hash": "sha256:8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+                "size": 105382
+            },
+            {
+                "path": "mods/[锂] lithium-fabric-mc1.20.1-0.11.3.jar",
+                "hash": "sha256:3ba94ad91e86e80985cd3df43de1c5c8cf0808a998c260e21a8eb10468d6a5be",
+                "size": 706600
+            },
+            {
+                "path": "mods/[键位冲突显示] Controlling-fabric-1.20.1-12.0.2.jar",
+                "hash": "sha256:bc7eced182b73adf773be705f21081bf24854fb5162c0426c6bb6d55e9b88d38",
+                "size": 122777
+            },
+            {
+                "path": "mods/aftersans53228-fabric-road-1.0.2+1.20.1Release-hotfix2.jar",
+                "hash": "sha256:b83cc0d42fbd1a0af702b7683801e1fc18d1bf3bc5748c8aadfb208466e65b38",
+                "size": 1511141
+            },
+            {
+                "path": "mods/ai-build-it-0.1.0.jar",
+                "hash": "sha256:d818d8a37d1b3e4f7deeef58f0875c891f8fdf9400e6e5d96300d8c381dfefe8",
+                "size": 90439
+            },
+            {
+                "path": "mods/anyfps-fabric-2.0.0.jar",
+                "hash": "sha256:bb82d3819b835ec1441f932eafdb61f95cf0fabd7fbed4662a2d62716265e17d",
+                "size": 25739
+            },
+            {
+                "path": "mods/architectury-9.2.14-fabric.jar",
+                "hash": "sha256:bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+                "size": 585207
+            },
+            {
+                "path": "mods/automobility-0.4.2+1.20.1-fabric.jar",
+                "hash": "sha256:c92e4b3936dbb29009cb32b7954bbf9b7b2b2026018897070f863f4e01bcc30a",
+                "size": 1108056
+            },
+            {
+                "path": "mods/bobby-5.0.1.jar",
+                "hash": "sha256:7b6e8e3a4797d32de1c48cd727ddab9f31705672850b3609d019b3ae2e51a61a",
+                "size": 799098
+            },
+            {
+                "path": "mods/brrp-fabric-1.0.1-1.20.1.jar",
+                "hash": "sha256:25082105db6ce1564ef9b1f24bf8da9eb49e8501b31e024ff0ac876574c1045b",
+                "size": 194245
+            },
+            {
+                "path": "mods/cathop_rebirth-1.23.1-hotfix.1.jar",
+                "hash": "sha256:669a355ebf1a612f290a0b7953d81e0af3ef3731a140ce5861469c1e0201261b",
+                "size": 41877593
+            },
+            {
+                "path": "mods/chat_heads-0.13.18-fabric-1.20.jar",
+                "hash": "sha256:1a83ff5edf42a40ab05fe7cb64c8ab1ace9f0d818ba00f1e8631021482751e4f",
+                "size": 78942
+            },
+            {
+                "path": "mods/cloth-config-11.1.136-fabric.jar",
+                "hash": "sha256:844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+                "size": 1172214
+            },
+            {
+                "path": "mods/continuity-3.0.0+1.20.1.jar",
+                "hash": "sha256:fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
+                "size": 1016063
+            },
+            {
+                "path": "mods/fabric-api-0.92.5+1.20.1.jar",
+                "hash": "sha256:e3f3106bef66c115f2b0d4ef304277dd422095a44564db255d72d0459c380999",
+                "size": 2107841
+            },
+            {
+                "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+                "hash": "sha256:2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b",
+                "size": 7387359
+            },
+            {
+                "path": "mods/fancymenu_fabric_3.5.2_MC_1.20.1.jar",
+                "hash": "sha256:6485cab2de8daff54788519f624dd6e363c9e87c58bab60393a94445c8ccc3f6",
+                "size": 3270608
+            },
+            {
+                "path": "mods/fmsia_fabric_1.0.1_MC_1.20.1.jar",
+                "hash": "sha256:be3f48eae695be9d80b76d170fa9a059203f0d3850654aa78019c94872fcae58",
+                "size": 210957
+            },
+            {
+                "path": "mods/idle_boost-fabric-1.2.0+1.20.1.jar",
+                "hash": "sha256:f7e46cb62028f67e25b2170185fcf710e548af0a0ebd1087e875198b9a6dec4b",
+                "size": 25661
+            },
+            {
+                "path": "mods/iris-1.7.6+mc1.20.1.jar",
+                "hash": "sha256:9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+                "size": 2726899
+            },
+            {
+                "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+                "hash": "sha256:f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
+                "size": 892067
+            },
+            {
+                "path": "mods/litematica-fabric-1.20.1-0.15.4.jar",
+                "hash": "sha256:ddfcce1c069980e3f88900e69a8762548e5422511c09b323df7005ff00e80c85",
+                "size": 923876
+            },
+            {
+                "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
+                "hash": "sha256:5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589",
+                "size": 545403
+            },
+            {
+                "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                "hash": "sha256:3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
+                "size": 39696
+            },
+            {
+                "path": "mods/midnightlib-fabric-1.4.1.1.jar",
+                "hash": "sha256:e94c144416219f39f19483f7a52339021e09ddbf7e820cb086a087298e7e7f2b",
+                "size": 57229
+            },
+            {
+                "path": "mods/mishanguc-1.5.3-1.20.1.jar",
+                "hash": "sha256:42a9245088e43b6797fc9685ce5ea8cb96e64f04cf3c0127cdc32896ab53a886",
+                "size": 6194053
+            },
+            {
+                "path": "mods/stutterfix-mc1.20.1-0.2.0.jar",
+                "hash": "sha256:9b2bad1d002f3b4f8aea88eea251ef0561731d633a50d69c9dcab89b6ebdd249",
+                "size": 26413
+            },
+            {
+                "path": "mods/worldedit-mod-7.2.15.jar",
+                "hash": "sha256:17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+                "size": 5825402
+            },
+            {
+                "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+                "hash": "sha256:7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
+                "size": 1294234
+            },
+            {
+                "path": "mods/yuushya-1.20.1-fabric-2.2.3.jar",
+                "hash": "sha256:98facde7851d27009d2aafc5339e2eb7ee4c87d984ed94f5ce6677169a0f8719",
+                "size": 23407159
+            },
+            {
+                "path": "options.txt",
+                "hash": "sha256:a2e7b588c3e80a7d467821b3d0719ab335284aa72877adc5cf09378f258720cb",
+                "size": 8376
+            },
+            {
+                "path": "resourcepacks/CAF_Train_ael_tcl.zip",
+                "hash": "sha256:20ae8133ef11c8e9a18f51e743dc7aee735f1d397c466326e2f6d123a2cfd5e0",
+                "size": 315447
+            },
+            {
+                "path": "resourcepacks/CathopRP_v26.6.3_Pack1.zip",
+                "hash": "sha256:369a48557d8f1088ee5b55c053b4991718cf86e1f0fb51e7994de1f17b201812",
+                "size": 189795121
+            },
+            {
+                "path": "resourcepacks/CathopRP_v26.6.3hotfix_Pack2.zip",
+                "hash": "sha256:e4639c7a17d1d1445da02fec8028ece08293f0ac4a0303c53c7677bb629493b4",
+                "size": 407712268
+            },
+            {
+                "path": "resourcepacks/DF4B(武警)内燃机车.zip",
+                "hash": "sha256:28de1fe399d2e23af396c4e383649b8b2ef473aa886c8f91854e055c8e08c5be",
+                "size": 42987
+            },
+            {
+                "path": "resourcepacks/MightyRacing_Chinese_Pack.zip",
+                "hash": "sha256:0dc3d119c5f8083bf395a425eca87c3343cfc22972a8768cf5d775b2d84d387e",
+                "size": 1666
+            },
+            {
+                "path": "resourcepacks/T198次列车追加.zip",
+                "hash": "sha256:1c79ad910e22b1b1d132379bac8a29560bd49e0e91881d5155de3e5f34b267ae",
+                "size": 226492
+            },
+            {
+                "path": "resourcepacks/Z247次列车追加.zip",
+                "hash": "sha256:9e0ac41f34bc7b8eca0f7514443943f87fcc2f8b3cc024b33b3faedeeafeb47e",
+                "size": 545363
+            },
+            {
+                "path": "resourcepacks/Z96次列车追加.zip",
+                "hash": "sha256:9e0ac41f34bc7b8eca0f7514443943f87fcc2f8b3cc024b33b3faedeeafeb47e",
+                "size": 545363
+            },
+            {
+                "path": "resourcepacks/中国铁路特快列车追加1.10.zip",
+                "hash": "sha256:1bd6044c46f676a1b70e6b739dee7d22fe5aaf3357959191f7f282cb7fe6315f",
+                "size": 455775
+            },
+            {
+                "path": "resourcepacks/韶八动集追加包修复版.zip",
+                "hash": "sha256:1049fed58fb479992da7f598d58a0acd6c4a44ed6aef0fe2e2097fd7fae5b91e",
+                "size": 254512
+            },
+            {
+                "path": "servers.dat",
+                "hash": "sha256:89fe2e03ae0f8f9a49d7890c68fac0fc8615053a0c5f8b2e1c17f3413bd15563",
+                "size": 6011
+            },
+            {
+                "path": "shaderpacks/BSL_v8.4.01.2.zip",
+                "hash": "sha256:f06508abf8a290b8bb7e5be36553e1a7cbd81adddfdfeeca30f9bff114107e93",
+                "size": 1105709
+            },
+            {
+                "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+                "hash": "sha256:33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f",
+                "size": 1669167
+            },
+            {
+                "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt",
+                "hash": "sha256:03b10c95578cb834dd18a6d83e034afb41834af5e978e7aa9681c6bfdef1e9fd",
+                "size": 253
+            },
+            {
+                "path": "shaderpacks/Bloop-1.6.0.zip",
+                "hash": "sha256:420c5dcc2dcaa01d190318b99a6fc768c361a2f93a20fa8a6819fc9424e2d68e",
+                "size": 3014098
+            },
+            {
+                "path": "shaderpacks/Body Camera Shader - V1.2.6.zip",
+                "hash": "sha256:f71aed74eee222644d2eac6b6efebd5d790e5df662f6fa191aa02aab270bc4a2",
+                "size": 474088
+            },
+            {
+                "path": "shaderpacks/BrighterAccessibility.zip",
+                "hash": "sha256:105e362231baeba34226d682d9e35531d134248f43b6f40bb38723e3598fbc9b",
+                "size": 3600
+            },
+            {
+                "path": "shaderpacks/CTMPOMFIX 1.8.8 beta (Chocapic13' Shaders edit).zip",
+                "hash": "sha256:3edb189d163209a8833ac592c5e5d163e6c3818d325d60b75c624796865c61dd",
+                "size": 3854238
+            },
+            {
+                "path": "shaderpacks/DerivativeMaind24.4.14.zip",
+                "hash": "sha256:71d2ee4bca827efa0bd9419ce9c0f94d0f2fe3b882bedc2a565d6d2f612e0e95",
+                "size": 19813468
+            },
+            {
+                "path": "shaderpacks/Kappa_v5.2.zip",
+                "hash": "sha256:382fadd7d389260522099b25f9dc693bbc81b89220ec5b55459cce74e6c264d0",
+                "size": 3868665
+            },
+            {
+                "path": "shaderpacks/MakeUp-UltraFast-9.1b.zip",
+                "hash": "sha256:ba149fe03e76ca3473855741d31df3a36267a0cbd3aab522a2e4ef1b475073cf",
+                "size": 367518
+            },
+            {
+                "path": "shaderpacks/Mellow Shader v1.5.3.zip",
+                "hash": "sha256:10036a602badf4ff2b8910432c69adc0dcb3842e5daf83a1aacdc90a88243c9c",
+                "size": 327975
+            },
+            {
+                "path": "shaderpacks/Shrimple_v0.12.zip",
+                "hash": "sha256:702c2497ee23a62f84c920eb897730519e80db04522171a31dce1e9166fb92fb",
+                "size": 10884315
+            },
+            {
+                "path": "shaderpacks/Sundial Alpha Build 2024-12-29.zip",
+                "hash": "sha256:09740c1990566e622ec4276588d1c1898f9f5b5c4ea61c38dd08b62c9258b8f7",
+                "size": 1393414
+            },
+            {
+                "path": "shaderpacks/TFC-ComplementaryReimagined_r5.0.zip",
+                "hash": "sha256:ac6392cde900a66022dd0f5ae0aba8e829d14129ceb96d693c9ddb959d83f188",
+                "size": 403145
+            },
+            {
+                "path": "shaderpacks/TFC-ComplementaryUnbound_r5.0.zip",
+                "hash": "sha256:04d3ad5ecf2dc98dd6b83cf34c99682198bc14b3bad330c5539068038b621009",
+                "size": 403147
+            },
+            {
+                "path": "shaderpacks/TFC-中低配Sildur's+Vibrant+Shaders+v1.51+Medium.zip",
+                "hash": "sha256:d1067a9e15951f33c176a403537642551a7d408acfa45628bf92c4b03c63c5f7",
+                "size": 141882
+            },
+            {
+                "path": "shaderpacks/TFC-中配Sildur's+Vibrant+Shaders+v1.51+High-MB.zip",
+                "hash": "sha256:9d3839965cee78ea2ead23a91047e80fe378fba199cf02b3e69ecd28043e376a",
+                "size": 141921
+            },
+            {
+                "path": "shaderpacks/TFC-中高配Sildur's+Vibrant+Shaders+v1.51+High.zip",
+                "hash": "sha256:f9de9e85a1d981f1ae0634ad4ee4b8df52f32d5bc2bad2fafd32432e2b094870",
+                "size": 141876
+            },
+            {
+                "path": "shaderpacks/TFC-低配Sildur's+Vibrant+Shaders+v1.51+Lite.zip",
+                "hash": "sha256:a1be124fa6440e7581f33a63b97067f0b36212ca219946ee187a51ca0c8df3a0",
+                "size": 141888
+            },
+            {
+                "path": "shaderpacks/TFC-超高配Sildur's+Vibrant+Shaders+v1.51+Extreme-VL.zip",
+                "hash": "sha256:bd861bcb9d53beb7a1570f79e4dd0e75933a401e0142ecc552b29cf2de3b5624",
+                "size": 141880
+            },
+            {
+                "path": "shaderpacks/TFC-高配Sildur's+Vibrant+Shaders+v1.51+Extreme.zip",
+                "hash": "sha256:94102e4d7926ca52143ac652f110fdd48b6cae35a4801c461fbc4ceb27944a70",
+                "size": 141876
+            },
+            {
+                "path": "shaderpacks/keroero‘s revise shaders体积云2版—超级—景深.zip",
+                "hash": "sha256:01dfcce66650176cbed95d82a22d2518c6e5d73e5e59bb91b4bcbf2da30dc3d7",
+                "size": 45117
+            },
+            {
+                "path": "shaderpacks/photon-main.zip",
+                "hash": "sha256:da6f7dc17052ada5d04fe5d7366af15c215a5619555ae87e8957d462ecf27684",
+                "size": 1516471
+            },
+            {
+                "path": "shaderpacks/photon_v1.0a.zip",
+                "hash": "sha256:348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684",
+                "size": 1558823
+            },
+            {
+                "path": "shaderpacks/rethinking-voxels_r0.1-beta4.zip",
+                "hash": "sha256:3f51e36760557fedb223ce53d2961090b402747f838f1ebe14294fb67a41f864",
+                "size": 549532
+            },
+            {
+                "path": "shaderpacks/superDuperVanilla.zip",
+                "hash": "sha256:2a79ee90f478057efdc8ff90faa84bdeabf2c3801e2129aa8f4d5c38070c582b",
+                "size": 2439355
+            },
+            {
+                "path": "shaderpacks/【体积云】Solas Shader V1.8.zip",
+                "hash": "sha256:e71cd57f0867f2347f0a5667242dc492dc9b7dd26b0c4db30602da9362015059",
+                "size": 1199760
+            },
+            {
+                "path": "shaderpacks/【高配】末地推荐§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV89.0§r§l.zip",
+                "hash": "sha256:38e7122683b4c95e6c5da93cab5f7886781630e4248fc9df47d66a6c1488845b",
+                "size": 3180580
+            },
+            {
+                "path": "shaderpacks/互补光影 【Unbound】ComplementaryUnbound_r5.1.1.zip",
+                "hash": "sha256:5e6c880c8841115ebd51d5b57e7d097ed8d4faaba4ba6df5858946c5149d7741",
+                "size": 424003
+            },
+            {
+                "path": "shaderpacks/互补光影重新构想ComplementaryReimagined_r5.1.1.zip",
+                "hash": "sha256:0a5b3e5eacfec9fb3a8bde6b488b4bd84b506a43b40a3f410037f60e9c2f1906",
+                "size": 424002
+            },
+            {
+                "path": "shaderpacks/低配+Sildurs Vibrant Shaders v1.283 High.zip",
+                "hash": "sha256:e3796df8d12f09f5bd847d67cf5cd116c7c6b39dfa3a4b66894fefd2d827adfd",
+                "size": 142960
+            },
+            {
+                "path": "shaderpacks/低配Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+                "hash": "sha256:33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f",
+                "size": 1669167
+            },
+            {
+                "path": "shaderpacks/体积云.zip",
+                "hash": "sha256:acc2e028f05409ad4710383b66c10e99e0f13f58d6a2aa518a7ff3f5b1e221fd",
+                "size": 45149
+            },
+            {
+                "path": "shaderpacks/体积云景深.zip",
+                "hash": "sha256:16ed22113250edc0a1d398312841f35cd1619bab56ecaf79fd96aee83b592fd1",
+                "size": 45150
+            },
+            {
+                "path": "shaderpacks/动态模糊体积云.zip",
+                "hash": "sha256:264ef0daee99f507806e453271d1a0bd1f6165d36cbd9c5cea797a8d44bbb0a4",
+                "size": 45148
+            },
+            {
+                "path": "shaderpacks/怀旧沉浸式Nostalgia_v5.0.zip",
+                "hash": "sha256:db6aa04db69b8ac501b50a64c3a4ffb5f50b9988e88ca0102229c4d9323771b1",
+                "size": 1847729
+            },
+            {
+                "path": "shaderpacks/植物晃动Shaders.zip",
+                "hash": "sha256:f87ea1a675b97e051865b6a68047fdbee32711e142f454353e8b29e34bb78116",
+                "size": 4437
+            },
+            {
+                "path": "shaderpacks/真实光影V4完整.zip",
+                "hash": "sha256:c092a4808e1ecae0932e5c1034ad2b1eccafb208222b86fd5d42f3dc7ebdc4e2",
+                "size": 37103
+            },
+            {
+                "path": "shaderpacks/高配写实Kappa_v5.2.zip",
+                "hash": "sha256:8dff58b049c3f2953a9b3dc4ab7398e15b51dcae1da1250a6b578c3b11c499c3",
+                "size": 3875015
+            },
+            {
+                "path": "shaderpacks/（推荐）photon-main.zip",
+                "hash": "sha256:af77f03a583be3c918620ff9c6cd40795124b2142654cc4bb014847b55cb7011",
+                "size": 7403896
+            },
+            {
+                "path": "shaderpacks/（推荐）【国创光影写实】体积云Derivative Dev WeatherSystem-Test 2024-2-14.zip",
+                "hash": "sha256:6cef819b81004a74cd9d31ec59dd10dc02318f5fae397e85d84b6ff0857d8da1",
+                "size": 4282151
+            }
+        ]
+    }
+}
