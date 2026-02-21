@@ -73,7 +73,7 @@
                 "size": 70
             },
             {
-                "path": "config/archaeology_config.json",
+                "path": "config/archaeology_config.json"，
                 "hash": "sha256:fe0ff029981b7dc8e4d777aa2541d2b8631d84d7eab0ea26703534fb24d26e04",
                 "size": 422
             },
@@ -5516,7 +5516,8 @@
             }
         ],
         "deletes": [],
-        "zip_url": "https://gh-proxy.com/https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
+        "zip_url": "https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
     }
 }
+
 
