@@ -4,7 +4,7 @@
     "modpack": {
         "version": "1.0.1",
         "changelog": "第一次",
-        "base_url": "https://gh-proxy.com/https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/tag/",
+        "base_url": "ttps://gh-proxy.com/https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/",
         "install_dir": ".",
         "files": [
             {
@@ -890,57 +890,68 @@
             {
                 "path": "mods/Axiom-5.0.1-for-MC1.20.1.jar",
                 "hash": "sha256:0c8bd40887668d83150c75e0c885755b2691e0aa9cd811fa173e477d9c7687ba",
-                "size": 42619186
+                "size": 42619186,
+                "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/vB362zR0/Axiom-5.0.1-for-MC1.20.1.jar"
             },
             {
                 "path": "mods/Chunky-1.3.146.jar",
                 "hash": "sha256:ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38",
-                "size": 344004
+                "size": 344004,
+                "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar"
             },
             {
                 "path": "mods/ClickSigns-fabric-1.0.6+1.20.1.jar",
                 "hash": "sha256:6acc61ec714886e68f44cb4fd0997a3a4c1246f9d926aba0311b6c95b1b77b10",
-                "size": 173226
+                "size": 173226,
+                "url": "https://cdn.modrinth.com/data/xaXWiLzT/versions/EhUb54QN/ClickSigns-fabric-1.0.6%2B1.20.1.jar"
             },
             {
                 "path": "mods/CustomSkinLoader_Fabric-14.23.jar",
                 "hash": "sha256:36994b9e75b809c29476c271a4ff87ade5df7093a63c0d263f7287fd5be21281",
-                "size": 185052
+                "size": 185052,
+                "url": "https://cdn.modrinth.com/data/idMHQ4n2/versions/asGzIRRZ/CustomSkinLoader_Fabric-14.23.jar"
             },
             {
                 "path": "mods/FABRIC-1.0.0+1.20.1.jar",
                 "hash": "sha256:c575b488d749ee9cee3bf88ed45159cf8930518e363607e368b69f86628f58e0",
-                "size": 23683
+                "size": 23683,
+                "url": "https://cdn.modrinth.com/data/naBrvjcq/versions/uDdCQwzY/FABRIC-1.0.0%2B1.20.1.jar"
             },
             {
                 "path": "mods/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
                 "hash": "sha256:5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56",
-                "size": 397239
+                "size": 397239,
+                "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/1aKtMQZE/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar"
             },
             {
                 "path": "mods/JCM-fabric-2.1.0-beta.2+1.20.1.jar",
                 "hash": "sha256:908eb1986701133660dec7f75806749ace4011195300842cb5cef4ae9e79b4ab",
-                "size": 24007726
+                "size": 24007726,
+                "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/bJ6Vr6rE/JCM-fabric-2.1.0-beta.2%2B1.20.1.jar"
             },
             {
                 "path": "mods/MSD-fabric-1.20.1-4.0.2-1.4.2.jar",
                 "hash": "sha256:79131a8147efdfe2d60b528f96a3115c00549cbe65be6854538b5767c7d655a7",
-                "size": 7996892
+                "size": 7996892,
+                "url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/PM3Xc54H/MSD-fabric-1.20.1-4.0.2-1.4.2.jar"
             },
             {
                 "path": "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.1.jar",
                 "hash": "sha256:13e536151f87700241ea82b9462f13b8715ddad590c8d03bb724403fa41e5f74",
-                "size": 63838895
+                "size": 63838895,
+                "url": "https://cdn.modrinth.com/data/jrAXj11W/versions/udWNOhrU/MTR-London-Underground-Addon-fabric-2.2.4%2B1.20.1.jar"
             },
             {
                 "path": "mods/MTR-London-Underground-Trains-fabric-1.0.3+1.20.1.jar",
                 "hash": "sha256:89ca0fdc348aa6b50fcd718650756131854ab84a488bd89cf780496a1e2ebff3",
-                "size": 98969406
+                "size": 98969406,
+                "url": "https://cdn.modrinth.com/data/W66PiEZF/versions/xSZEDm9I/MTR-London-Underground-Trains-fabric-1.0.3%2B1.20.1.jar"
             },
             {
                 "path": "mods/MTR-fabric-4.0.2-hotfix-1+1.20.1.jar",
                 "hash": "sha256:016885aaa798368c2df45d4a7e4f9fe0c6d955f30dd852a0476524a66aa53c3e",
-                "size": 80575369
+                "size": 80575369,
+                "url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qaNWCTnK/MTR-fabric-4.0.2-hotfix-1%2B1.20.1.jar"
             },
             {
                 "path": "mods/ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
@@ -955,137 +966,164 @@
             {
                 "path": "mods/Shut Up GL Error-fabric-1.20.1-1.0.0.jar",
                 "hash": "sha256:28da55566ed4f0a6eab954e0cfc71d2a8b7b069e1cb8866c3ee6ffda1031c334",
-                "size": 120000
+                "size": 120000,
+                "url": "https://cdn.modrinth.com/data/houIxdGF/versions/aHibkCCo/Shut%20Up%20GL%20Error-fabric-1.20.1-1.0.0.jar"
             },
             {
                 "path": "mods/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar",
                 "hash": "sha256:774ecae8c258a86c7dc69b290945a8a01a5d8f3315a1caa7e2d8e4c4e299985c",
-                "size": 2925864
+                "size": 2925864,
+                "url": "https://cdn.modrinth.com/data/CvIO1eYD/versions/IZ4GdyrK/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
             },
             {
                 "path": "mods/Tianjin-Metro-1.0.2+1.20.1.jar",
                 "hash": "sha256:c9d76ff5d55caeff9b287a2f7d888f89caea00f00505e9cd9f2becdd35386abe",
-                "size": 13443979
+                "size": 13443979,
+                "url": "https://cdn.modrinth.com/data/P0Pb6K4u/versions/T8cm9Y1S/Tianjin-Metro-1.0.2%2B1.20.1.jar"
             },
             {
                 "path": "mods/ToadLib-1.20-1.20.1-1.2.4.jar",
                 "hash": "sha256:470596b9057f2656eaac11218d4432c05ac451a7d836eaa6ba2a53dc51dca31d",
-                "size": 444966
+                "size": 444966,
+                "url": "https://cdn.modrinth.com/data/CYQ7VYrM/versions/6SZgZIoc/ToadLib-1.20-1.20.1-1.2.4.jar"
             },
             {
                 "path": "mods/XaerosWorldMap_1.39.12_Fabric_1.20.jar",
                 "hash": "sha256:be5cdd58d0fb4cc81b128435e050f1c7c290fdc3e4b48199cf2c727946887fd7",
-                "size": 974400
+                "size": 974400,
+                "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XBgSFzXh/XaerosWorldMap_1.39.12_Fabric_1.20.jar"
             },
             {
                 "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
                 "hash": "sha256:c9997d1efeee193911767eb7f3df355dd50be21d0d77dd1ff611bcbb59b69897",
-                "size": 1740608
+                "size": 1740608,
+                "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/1Knv1cKY/Xaeros_Minimap_25.2.10_Fabric_1.20.jar"
             },
             {
                 "path": "mods/Yunzhu-Transit-Extension-fabric-1.0.2-beta.4+1.20.1 (2).jar",
                 "hash": "sha256:4fb786b29a50c808576cfb009894af9ba98469aeae9e6adcfce666a27652190f",
-                "size": 23689202
+                "size": 23689202,
+                "url": "https://cdn.modrinth.com/data/nqMdKn6A/versions/h0hdXg57/Yunzhu-Transit-Extension-fabric-1.0.2-beta.4%2B1.20.1.jar"
             },
             {
                 "path": "mods/[C^2M 引擎] c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
                 "hash": "sha256:a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde",
-                "size": 1426500
+                "size": 1426500,
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar"
             },
             {
                 "path": "mods/[DFU载入优化] lazydfu-0.1.3.jar",
                 "hash": "sha256:4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8",
-                "size": 14531
+                "size": 14531,
+                "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar"
             },
             {
                 "path": "mods/[内存泄漏修复] memoryleakfix-fabric-1.17+-1.1.5.jar",
                 "hash": "sha256:b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde",
-                "size": 49334
+                "size": 49334,
+                "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar"
             },
             {
                 "path": "mods/[内存清扫] memorysweep-1.20.1-1.1.2-fabric.jar",
                 "hash": "sha256:b7a3e2013d78de810497548864db44ee871bf566134946ce11fb9717525aad62",
-                "size": 14574
+                "size": 14574,
+                "url": "https://cdn.modrinth.com/data/3oJ7L0Iq/versions/oHmCWE3S/memorysweep-1.20.1-1.1.2-fabric.jar"
             },
             {
                 "path": "mods/[农夫乐事：重织] FarmersDelight-1.20.1-2.4.1+refabricated.jar",
                 "hash": "sha256:81d78e10b58e220bffbe4932de5486ac2127efc37908e89161237a34f0828fac",
-                "size": 8056758
+                "size": 8056758,
+                "url": "https://cdn.modrinth.com/data/7vxePowz/versions/Z8UNayLO/FarmersDelight-1.20.1-2.4.1%2Brefabricated.jar"
             },
             {
                 "path": "mods/[实体渲染机制优化] entityculling-fabric-1.7.4-mc1.20.1.jar",
                 "hash": "sha256:ad938f570cf88c9a1a8e954999920cd718eb15f7b1de8b67d33046ef1f9a8507",
-                "size": 70663
+                "size": 70663,
+                "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/xuiHEnFJ/entityculling-fabric-1.7.4-mc1.20.1.jar"
             },
             {
                 "path": "mods/[我的城市：交通与生活] Citymod-Fabric-0.1.4.4-1.20.1.jar",
                 "hash": "sha256:f07ee161bcc9d2da71812bf08c3d09f1ed793dc4a8dd1776f52333ee03adc9f0",
-                "size": 2098796
+                "size": 2098796,
+                "url": "https://cdn.modrinth.com/data/Rj14w51s/versions/AejVRJaO/Citymod-Fabric-0.1.4.4-1.20.1.jar"
             },
             {
                 "path": "mods/[星光] starlight-1.1.2+fabric.dbc156f.jar",
                 "hash": "sha256:2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8",
-                "size": 127368
+                "size": 127368,
+                "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar"
             },
             {
                 "path": "mods/[更好的床] betterbeds-1.3.0-1.19.3.jar",
                 "hash": "sha256:ab5712649d9c9f3ada636bbcc52e71099edc5ec674a7d52f27f2b61ffdccf2f4",
-                "size": 50218
+                "size": 50218,
+                "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar"
             },
             {
                 "path": "mods/[更好的延迟显示] BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
                 "hash": "sha256:f9f14d7df5c6de56d7c8447b7729d724baa74f0e27b594a201af04381045ece5",
-                "size": 16226
+                "size": 16226,
+                "url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/FbxcDBxy/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
             },
             {
                 "path": "mods/[树叶渲染优化] cullleaves-fabric-3.2.0.jar",
                 "hash": "sha256:b85953d3c2de70f0fbd4cddf57f9c0861a9bd409077ce6e01da817f6e7584177",
-                "size": 75072
+                "size": 75072,
+                "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/3rzOQJrq/cullleaves-fabric-3.2.0.jar"
             },
             {
                 "path": "mods/[模组菜单] modmenu-7.2.2.jar",
                 "hash": "sha256:a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
-                "size": 721366
+                "size": 721366,
+                "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar"
             },
             {
                 "path": "mods/[游戏内输入法续更版 ／ 游戏内输入法 Forge 重置版] ContingameIME-1.0.7-1.20.1-fabric.jar",
                 "hash": "sha256:c5d5252d6ea35bd24b3ddd7d3ebfefc24e20b7846cd44f045b1414cc419a4602",
-                "size": 194045
+                "size": 194045,
+                "url": "https://cdn.modrinth.com/data/5Z2YdwIT/versions/ZKNh0y2c/ContingameIME-1.0.7-1.20.1-fabric.jar"
             },
             {
                 "path": "mods/[玉 🔍] Jade-1.20-Fabric-11.13.1.jar",
                 "hash": "sha256:02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c",
-                "size": 572882
+                "size": 572882,
+                "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/drol2x1P/Jade-1.20-Fabric-11.13.1.jar"
             },
             {
                 "path": "mods/[现代化修复] modernfix-fabric-5.23.1+mc1.20.1.jar",
                 "hash": "sha256:4a64856303a5cf96063feb461e2a305bf25a646d181fd6e170c5258961970c6c",
-                "size": 530761
+                "size": 530761,
+                "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/sHT8jMZl/modernfix-fabric-5.23.1%2Bmc1.20.1.jar"
             },
             {
                 "path": "mods/[移除重载界面] rrls-4.0.6.1+mc1.20.1-fabric.jar",
                 "hash": "sha256:da477c897a8bc0e080aa1e00b813c1d4bba26af80be2dbda10afd12a0ca40115",
-                "size": 160946
+                "size": 160946,
+                "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/VHNE9K3D/rrls-4.0.6.1%2Bmc1.20.1-fabric.jar"
             },
             {
                 "path": "mods/[钠] sodium-fabric-0.5.13+mc1.20.1.jar",
                 "hash": "sha256:688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
-                "size": 971552
+                "size": 971552,
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar"
             },
             {
                 "path": "mods/[铁氧体磁芯] ferritecore-6.0.1-fabric.jar",
                 "hash": "sha256:c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
-                "size": 125197
+                "size": 125197,
+                "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
             },
             {
                 "path": "mods/[铟] indium-1.0.36+mc1.20.1.jar",
                 "hash": "sha256:8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
-                "size": 105382
+                "size": 105382,
+                "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/nQHYSjxO/indium-1.0.36%2Bmc1.20.1.jar"
             },
             {
                 "path": "mods/[锂] lithium-fabric-mc1.20.1-0.11.3.jar",
                 "hash": "sha256:3ba94ad91e86e80985cd3df43de1c5c8cf0808a998c260e21a8eb10468d6a5be",
-                "size": 706600
+                "size": 706600,
+                "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/vuuAe7ZA/lithium-fabric-mc1.20.1-0.11.3.jar"
             },
             {
                 "path": "mods/[键位冲突显示] Controlling-fabric-1.20.1-12.0.2.jar",
@@ -1095,7 +1133,8 @@
             {
                 "path": "mods/aftersans53228-fabric-road-1.0.2+1.20.1Release-hotfix2.jar",
                 "hash": "sha256:b83cc0d42fbd1a0af702b7683801e1fc18d1bf3bc5748c8aadfb208466e65b38",
-                "size": 1511141
+                "size": 1511141,
+                "url": "https://cdn.modrinth.com/data/6HONPMpu/versions/L222KrN4/aftersans53228-fabric-road-1.0.2%2B1.20.1Release-hotfix2.jar"
             },
             {
                 "path": "mods/ai-build-it-0.1.0.jar",
@@ -1105,27 +1144,32 @@
             {
                 "path": "mods/anyfps-fabric-2.0.0.jar",
                 "hash": "sha256:bb82d3819b835ec1441f932eafdb61f95cf0fabd7fbed4662a2d62716265e17d",
-                "size": 25739
+                "size": 25739,
+                "url": "https://cdn.modrinth.com/data/fdH2UJ9i/versions/ZTBK1VLL/anyfps-fabric-2.0.0.jar"
             },
             {
                 "path": "mods/architectury-9.2.14-fabric.jar",
                 "hash": "sha256:bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
-                "size": 585207
+                "size": 585207,
+                "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar"
             },
             {
                 "path": "mods/automobility-0.4.2+1.20.1-fabric.jar",
                 "hash": "sha256:c92e4b3936dbb29009cb32b7954bbf9b7b2b2026018897070f863f4e01bcc30a",
-                "size": 1108056
+                "size": 1108056,
+                "url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
             },
             {
                 "path": "mods/bobby-5.0.1.jar",
                 "hash": "sha256:7b6e8e3a4797d32de1c48cd727ddab9f31705672850b3609d019b3ae2e51a61a",
-                "size": 799098
+                "size": 799098,
+                "url": "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"
             },
             {
                 "path": "mods/brrp-fabric-1.0.1-1.20.1.jar",
                 "hash": "sha256:25082105db6ce1564ef9b1f24bf8da9eb49e8501b31e024ff0ac876574c1045b",
-                "size": 194245
+                "size": 194245,
+                "url": "https://cdn.modrinth.com/data/JnrDtPAE/versions/67aRXMZe/brrp-fabric-1.0.1-1.20.1.jar"
             },
             {
                 "path": "mods/cathop_rebirth-1.23.1-hotfix.1.jar",
@@ -1135,82 +1179,98 @@
             {
                 "path": "mods/chat_heads-0.13.18-fabric-1.20.jar",
                 "hash": "sha256:1a83ff5edf42a40ab05fe7cb64c8ab1ace9f0d818ba00f1e8631021482751e4f",
-                "size": 78942
+                "size": 78942,
+                "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/V9vDVRF6/chat_heads-0.13.18-fabric-1.20.jar"
             },
             {
                 "path": "mods/cloth-config-11.1.136-fabric.jar",
                 "hash": "sha256:844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
-                "size": 1172214
+                "size": 1172214,
+                "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar"
             },
             {
                 "path": "mods/continuity-3.0.0+1.20.1.jar",
                 "hash": "sha256:fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
-                "size": 1016063
+                "size": 1016063,
+                "url": "https://cdn.modrinth.com/data/1IjD5062/versions/qGTDcjHM/continuity-3.0.0%2B1.20.1.jar"
             },
             {
                 "path": "mods/fabric-api-0.92.5+1.20.1.jar",
                 "hash": "sha256:e3f3106bef66c115f2b0d4ef304277dd422095a44564db255d72d0459c380999",
-                "size": 2107841
+                "size": 2107841,
+                "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PB9Kjpo3/fabric-api-0.92.5%2B1.20.1.jar"
             },
             {
                 "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
                 "hash": "sha256:2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b",
-                "size": 7387359
+                "size": 7387359,
+                "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar"
             },
             {
                 "path": "mods/fancymenu_fabric_3.5.2_MC_1.20.1.jar",
                 "hash": "sha256:6485cab2de8daff54788519f624dd6e363c9e87c58bab60393a94445c8ccc3f6",
-                "size": 3270608
+                "size": 3270608,
+                "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/lveaYKkE/fancymenu_fabric_3.5.2_MC_1.20.1.jar"
             },
             {
                 "path": "mods/fmsia_fabric_1.0.1_MC_1.20.1.jar",
                 "hash": "sha256:be3f48eae695be9d80b76d170fa9a059203f0d3850654aa78019c94872fcae58",
-                "size": 210957
+                "size": 210957,
+                "url": "https://cdn.modrinth.com/data/i9oIemgf/versions/sNxG4Wjk/fmsia_fabric_1.0.1_MC_1.20.1.jar"
             },
             {
                 "path": "mods/idle_boost-fabric-1.2.0+1.20.1.jar",
                 "hash": "sha256:f7e46cb62028f67e25b2170185fcf710e548af0a0ebd1087e875198b9a6dec4b",
-                "size": 25661
+                "size": 25661,
+                "url": "https://cdn.modrinth.com/data/REC6ythZ/versions/R7BANeO0/idle_boost-fabric-1.2.0%2B1.20.1.jar"
             },
             {
                 "path": "mods/iris-1.7.6+mc1.20.1.jar",
                 "hash": "sha256:9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
-                "size": 2726899
+                "size": 2726899,
+                "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar"
             },
             {
                 "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
                 "hash": "sha256:f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
-                "size": 892067
+                "size": 892067,
+                "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar"
             },
             {
                 "path": "mods/litematica-fabric-1.20.1-0.15.4.jar",
                 "hash": "sha256:ddfcce1c069980e3f88900e69a8762548e5422511c09b323df7005ff00e80c85",
-                "size": 923876
+                "size": 923876,
+                "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/1ZTpW1lr/litematica-fabric-1.20.1-0.15.4.jar"
             },
             {
                 "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
                 "hash": "sha256:5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589",
-                "size": 545403
+                "size": 545403,
+                "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/V7yLDtJV/malilib-fabric-1.20.1-0.16.3.jar"
             },
             {
                 "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
                 "hash": "sha256:3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
-                "size": 39696
+                "size": 39696,
+                "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
             },
             {
                 "path": "mods/midnightlib-fabric-1.4.1.1.jar",
                 "hash": "sha256:e94c144416219f39f19483f7a52339021e09ddbf7e820cb086a087298e7e7f2b",
-                "size": 57229
+                "size": 57229,
+                "url": "https://cdn.modrinth.com/data/codAaoxh/versions/YXz8kIQl/midnightlib-fabric-1.4.1.1.jar"
             },
             {
                 "path": "mods/mishanguc-1.5.3-1.20.1.jar",
                 "hash": "sha256:42a9245088e43b6797fc9685ce5ea8cb96e64f04cf3c0127cdc32896ab53a886",
-                "size": 6194053
+                "size": 6194053,
+                "url": "https://cdn.modrinth.com/data/rItLmRo4/versions/W8UYjABx/mishanguc-1.5.3-1.20.1.jar"
             },
             {
                 "path": "mods/stutterfix-mc1.20.1-0.2.0.jar",
                 "hash": "sha256:9b2bad1d002f3b4f8aea88eea251ef0561731d633a50d69c9dcab89b6ebdd249",
-                "size": 26413
+                "size": 26413,
+                "url": "https://cdn.modrinth.com/data/FimwF33K/versions/JFNunyDW/stutterfix-mc1.20.1-0.2.0.jar"
             },
             {
                 "path": "mods/worldedit-mod-7.2.15.jar",
@@ -1220,18 +1280,19 @@
             {
                 "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
                 "hash": "sha256:7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
-                "size": 1294234
+                "size": 1294234,
+                "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar"
             },
             {
                 "path": "mods/yuushya-1.20.1-fabric-2.2.3.jar",
                 "hash": "sha256:98facde7851d27009d2aafc5339e2eb7ee4c87d984ed94f5ce6677169a0f8719",
-                "size": 23407159
+                "size": 23407159,
+                "url": "https://cdn.modrinth.com/data/lfVtagkm/versions/ly2Y9XSU/yuushya-1.20.1-fabric-2.2.3.jar"
             },
             {
                 "path": "options.txt",
                 "hash": "sha256:b6235317c56579fea5f2501c9688b3c9b95fa9c3f54e72d806f046f2d6b4d444",
-                "size": 8486,
-                "url": "https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/single_files/options.txt"
+                "size": 8486
             },
             {
                 "path": "resourcepacks/CAF_Train_ael_tcl.zip",
@@ -1296,8 +1357,7 @@
             {
                 "path": "servers.dat",
                 "hash": "sha256:89fe2e03ae0f8f9a49d7890c68fac0fc8615053a0c5f8b2e1c17f3413bd15563",
-                "size": 6011,
-                "url": "https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/single_files/servers.dat"
+                "size": 6011
             },
             {
                 "path": "shaderpacks/BSL_v8.4.01.2.zip",
@@ -5455,6 +5515,7 @@
                 "size": 255
             }
         ],
-        "deletes": []
+        "deletes": [],
+        "zip_url": "ttps://gh-proxy.com/https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
     }
 }
