@@ -59,7 +59,7 @@
             },
             {
                 "path": "config/NoChatReports/README.md",
-                "hash": "sha256:c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"，
+                "hash": "sha256:c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f",
                 "size": 167
             },
             {
@@ -73,7 +73,7 @@
                 "size": 70
             },
             {
-                "path": "config/archaeology_config.json"，
+                "path": "config/archaeology_config.json",
                 "hash": "sha256:fe0ff029981b7dc8e4d777aa2541d2b8631d84d7eab0ea26703534fb24d26e04",
                 "size": 422
             },
@@ -5519,6 +5519,7 @@
         "zip_url": "https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
     }
 }
+
 
 
 
