@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.0",
-    "launcher_download_url": "",
+    "launcher_version": "1.0.1",
+    "launcher_download_url": "https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1_l/Cathop_Launcher_Installer.exe",
     "modpack": {
         "version": "1.0.1",
         "changelog": "第一次",
@@ -5519,3 +5519,4 @@
         "zip_url": "https://gh-proxy.com/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
     }
 }
+
