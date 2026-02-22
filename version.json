@@ -1,10 +1,10 @@
 {
     "launcher_version": "1.0.1",
-    "launcher_download_url": "https://ghp.ci/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1_l/Cathop_Launcher_Installer.exe",
+    "launcher_download_url": "https://github.moeyy.xyz/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1_l/Cathop_Launcher_Installer.exe",
     "modpack": {
         "version": "1.0.1",
         "changelog": "第一次",
-        "base_url": "https://ghp.ci/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/",
+        "base_url": "https://github.moeyy.xyz/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/",
         "install_dir": ".",
         "files": [
             {
@@ -34,7 +34,7 @@
             },
             {
                 "path": "config/ModernUI/text.toml",
-                "hash": "sha256:50f038ad96446f91a2f6c7b1d285861572060ece3c379d94eabe8e3eb84b6b69",
+                "hash": "sha256:50f038ad96446f91a2f6c7b1d285861572060ece3c379d94eabe8e3eb84b6b69"，
                 "size": 6053
             },
             {
@@ -5516,8 +5516,9 @@
             }
         ],
         "deletes": [],
-        "zip_url": "https://ghp.ci/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
+        "zip_url": "https://github.moeyy.xyz/https://github.com/Rolling-Catawa/Cathop-Launcher-Repo/releases/download/v1.0.1/update.zip"
     }
 }
+
 
 
